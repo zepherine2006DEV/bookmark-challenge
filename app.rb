@@ -6,5 +6,9 @@ class BookmarkManager < Sinatra::Base
     erb (:index)
   end
 
+  get '/bookmarks' do
+    "GOOGLE www.google.com"
+  end
+
   run! if app_file == $0
 end
