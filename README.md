@@ -3,4 +3,4 @@
 ## Domain Model
 
 ![Image of Domain]
-(./images/domain.jpg)
+(images/domain.jpg)
