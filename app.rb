@@ -1,4 +1,5 @@
 require 'sinatra/base'
+require './lib/bookmark'
 
 class BookmarkManager < Sinatra::Base
 
@@ -7,7 +8,8 @@ class BookmarkManager < Sinatra::Base
   end
 
   get '/bookmarks' do
-    "GOOGLE www.google.com"
+    @bookmarks = Bookmark.all
+    erb (:view_bookmarks)
   end
 
   run! if app_file == $0

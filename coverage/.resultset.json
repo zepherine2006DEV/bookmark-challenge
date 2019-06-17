@@ -1,12 +1,23 @@
 {
   "RSpec": {
     "coverage": {
+      "/Users/student/Dropbox/LUCYLAND/Coding Lucy/MAKERS/Makers_Onsite/Week4/bookmark-challenge/spec/bookmark_spec.rb": [
+        1,
+        null,
+        1,
+        1,
+        1,
+        1,
+        1,
+        null,
+        null,
+        null
+      ],
       "/Users/student/Dropbox/LUCYLAND/Coding Lucy/MAKERS/Makers_Onsite/Week4/bookmark-challenge/spec/features/view_bookmarks_spec.rb": [
         null,
         null,
         null,
         null,
-        1,
         1,
         1,
         1,
@@ -25,6 +36,6 @@
         null
       ]
     },
-    "timestamp": 1560785430
+    "timestamp": 1560787119
   }
 }
