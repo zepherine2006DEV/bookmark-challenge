@@ -2,5 +2,4 @@
 
 ## Domain Model
 
-![Image of Domain]
-(images/domain.jpg)
+![Image of Domain](/images/domain.jpg)
